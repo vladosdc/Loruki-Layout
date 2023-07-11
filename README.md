@@ -1,3 +1,3 @@
-# Loruki 
+# Loruki - Adaptive website layout
 
-Adaptive site layout
+### Demo - https://vladosdc.github.io/Loruki-Layout/
